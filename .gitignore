@@ -4,7 +4,6 @@ bower_components/
 
 # Archivos compilados/generados
 dist/
-build/
 *.css.map
 *.js.map
 
