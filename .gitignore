@@ -4,12 +4,6 @@ bower_components/
 
 # Archivos compilados/generados
 dist/
-*.css.map
-*.js.map
-
-# Archivos de Sass compilados (si compilas a una carpeta específica)
-css/
-*.css
 
 # Logs
 npm-debug.log*
